@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.49.0](https://www.github.com/saimonn/devops-stack/compare/v0.48.0...v0.49.0) (2021-11-09)
+
+
+### Features
+
+* **keycloak:** pass a user list to keycloak ([#788](https://www.github.com/saimonn/devops-stack/issues/788)) ([c2835ec](https://www.github.com/saimonn/devops-stack/commit/c2835ecaba5ffb02908fa77049cffecb976787e3))
+* **kind:** add experimental support for KIND ([#785](https://www.github.com/saimonn/devops-stack/issues/785)) ([518e3e6](https://www.github.com/saimonn/devops-stack/commit/518e3e6885082429298607314215e15fcacb0d07))
+* **traefik:** tls version >= 1.2 ([#793](https://www.github.com/saimonn/devops-stack/issues/793)) ([c49580e](https://www.github.com/saimonn/devops-stack/commit/c49580efa834d1a5001abb18f0d9cf120970efc3))
+
+
+### Bug Fixes
+
+* **argocd:** fix kube-prometheus-stack dependency on OIDC ([#795](https://www.github.com/saimonn/devops-stack/issues/795)) ([5848af8](https://www.github.com/saimonn/devops-stack/commit/5848af8970a8c273b8243fae3f5dd98167af17d2))
+
 ## [0.48.0](https://www.github.com/camptocamp/devops-stack/compare/v0.47.0...v0.48.0) (2021-09-22)
 
 
